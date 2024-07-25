@@ -1,0 +1,32 @@
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\bin\Debug\EmployeeSystem.exe.config
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\bin\Debug\EmployeeSystem.exe
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\bin\Debug\EmployeeSystem.pdb
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.AdminMenu.resources
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.Properties.Resources.resources
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.exe
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.pdb
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.ManageEmp.resources
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.ModifyEmp.resources
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.RegisterEmpForm.resources
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.EmployeeManager.resources
+C:\Users\PC\source\repos\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.mainmenu.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\bin\Debug\EmployeeSystem.exe.config
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\bin\Debug\EmployeeSystem.exe
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\bin\Debug\EmployeeSystem.pdb
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.AssemblyReference.cache
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.AdminMenu.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.EmployeeManager.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.mainmenu.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.ManageEmp.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.ModifyEmp.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.Properties.Resources.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.RegisterEmpForm.resources
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.GenerateResource.cache
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.csproj.CoreCompileInputs.cache
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.exe
+C:\Users\MBR\Downloads\EmployeeSystem (3)\EmployeeSystem\EmployeeSystem\obj\Debug\EmployeeSystem.pdb
